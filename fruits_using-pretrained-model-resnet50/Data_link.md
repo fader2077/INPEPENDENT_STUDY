@@ -1,1 +1,1 @@
-a href = 'https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class'
+ https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class
