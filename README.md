@@ -1,2 +1,2 @@
 # INPEPENDENT_STUDY
-開始做一些專題的東東
+開始做一些東東
